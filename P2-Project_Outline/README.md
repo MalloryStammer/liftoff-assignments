@@ -8,11 +8,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+Quickly combone multiple food intolerance / allergy lists into one easy to read master list
 ### Features
-Include Features here
+generator, search content, register account
 ### Technologies
-Include Technologies here
+c#, .net mvc, html/ css, lotsa SQL, 
 ### What I'll Have to Learn
-Include what you will need to learn here
+more sql, info about food intolerances, how to use more bootstrap html
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/APAAyIwe/mallory-stammer-liftoff-2022
