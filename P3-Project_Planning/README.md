@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-THESE ARE ON MY TRELLO BOARD 
+[Allergenerator Wireframe.pdf](https://github.com/MalloryStammer/liftoff-assignments/files/7955117/Allergenerator.Wireframe.pdf)
 
 ### Project Tracker
 https://github.com/MalloryStammer/liftoff-assignments/blob/master/P2-Project_Outline/README.md
