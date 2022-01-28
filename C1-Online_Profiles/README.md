@@ -16,6 +16,6 @@ www.linkedin.com/in/mallorystammer
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-https://docs.google.com/document/d/1KuH0gJ2Y1DyrzvBPObShaAffnn6C3Ir1/export/pdf 
+https://docs.google.com/document/d/1KuH0gJ2Y1DyrzvBPObShaAffnn6C3Ir1/edit?usp=sharing&ouid=115265667423049922246&rtpof=true&sd=true
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
